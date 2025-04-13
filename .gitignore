@@ -1,0 +1,5 @@
+*tif
+test/
+train/
+.venv
+.vscode
