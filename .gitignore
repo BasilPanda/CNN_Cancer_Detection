@@ -4,3 +4,4 @@ train/
 dev/
 .venv
 .vscode
+weights.hdf5.keras
